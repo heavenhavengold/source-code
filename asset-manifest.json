@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a14747d8.css",
+    "main.js": "/static/js/main.b2d71d0e.js",
+    "static/media/coal_transition.png": "/static/media/coal_transition.c157dea09639b16c953a.png",
+    "index.html": "/index.html",
+    "main.a14747d8.css.map": "/static/css/main.a14747d8.css.map",
+    "main.b2d71d0e.js.map": "/static/js/main.b2d71d0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a14747d8.css",
+    "static/js/main.b2d71d0e.js"
+  ]
+}
